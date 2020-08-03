@@ -1,0 +1,496 @@
+COCA word       COCA dict #     PNC word        Trans           v_index         v_class         Stress          PNC count      
+was             3083112         was             W AH0 Z         2               @               0               2172           
+was             3083112         was             W AH1 Z         2               uh              1               1727           
+as              2599971         as              AE1 Z           1               NA              1               683            
+as              2599971         as              AH0 Z           1               @               0               495            
+it's            772979          it's            IH1 T S         1               i               1               2055           
+it's            772979          it's            AH0 T S         1               @               0               1776           
+into            723936          into            IH2 N T UW1     4               Tuw             1               245            
+into            723936          into            IH2 N T AH0     1               i               2               289            
+can             949767          can             K AE1 N         2               NA              1               360            
+can             949767          can             K AH0 N         2               @               0               224            
+between         290141          between         B IY0 T W IY1 N 2               iy              0               118            
+between         290141          between         B AH0 T W IY1 N 5               iy              1               70             
+hundred         37031           hundred         HH AH1 N ER0 D  4               *hr             0               139            
+hundred         37031           hundred         HH AH1 N D ER0 D 5               *hr             0               137            
+been            852399          been            B IH1 N         2               i               1               473            
+been            852399          been            B AH0 N         2               @               0               403            
+already         125232          already         AO0 R EH1 D IY0 5               iyF             0               103            
+already         125232          already         AO0 L R EH1 D IY0 6               iyF             0               61             
+sometimes       91514           sometimes       S AH1 M T AY2 M Z 5               ay              2               310            
+sometimes       91514           sometimes       S AH0 M T AY1 M Z 5               ay              1               240            
+kept            59068           kept            K AE1 P T       2               NA              1               140            
+kept            59068           kept            K EH1 P T       2               e               1               69             
+good            394706          good            G UH1 D         2               u               1               717            
+good            394706          good            G AH0 D         2               @               0               973            
+if              1013741         if              IH1 F           1               i               1               1436           
+if              1013741         if              AH0 F           1               @               0               923            
+says            599409          says            S IH1 Z         2               i               1               253            
+says            599409          says            S EH1 Z         2               e               1               297            
+getting         122440          getting         G IH1 T IH0 NG  2               i               1               306            
+getting         122440          getting         G EH1 T IH0 NG  2               e               1               157            
+inside          89322           inside          IH1 N S AY2 D   4               ay              2               61             
+inside          89322           inside          IH2 N S AY1 D   4               ay              1               61             
+falling         19263           falling         F AO1 L IH0 NG  2               oh              1               8              
+falling         19263           falling         F AA1 L IH0 NG  2               o               1               4              
+during          206634          during          D ER1 IH0 NG    2               *hr             1               42             
+during          206634          during          D UH1 R AH0 N   2               uwr             1               40             
+during          206634          during          D UH1 R IH0 NG  2               uwr             1               48             
+resemble        3531            resemble        R AH0 Z EH1 M B AH0 L 4               e               1               1              
+resemble        3531            resemble        R IY0 Z EH1 M B AH0 L 2               iy              0               1              
+relaxed         6614            relaxed         R IY0 L AE1 K S T 2               iy              0               4              
+relaxed         6614            relaxed         R AH0 L AE1 K S T 4               ae              1               2              
+recently        60790           recently        R IY1 S AH0 N L IY0 7               iyF             0               30             
+recently        60790           recently        R IY1 S AH0 N T L IY0 8               iyF             0               14             
+empty           26676           empty           EH1 M T IY0     4               iyF             0               13             
+empty           26676           empty           EH1 M P T IY0   1               e               1               18             
+current         66326           current         K ER1 N T       2               *hr             1               2              
+current         66326           current         K AA1 R AH0 N T 2               ahr             1               2              
+enter           20536           enter           EH1 N T ER0     4               *hr             0               4              
+enter           20536           enter           EH1 N ER0       1               e               1               3              
+remember        82434           remember        R AH0 M EH1 M B ER0 7               *hr             0               337            
+remember        82434           remember        R IY0 M EH1 M B ER0 2               iy              0               368            
+remained        24394           remained        R IY0 M EY1 N D 2               iy              0               4              
+remained        24394           remained        R AH0 M EY1 N D 4               ey              1               3              
+address         39322           address         AE1 D R EH2 S   1               ae              1               18             
+address         39322           address         AH0 D R EH1 S   4               e               1               13             
+gets            60758           gets            G IH1 T S       2               i               1               172            
+gets            60758           gets            G EH1 T S       2               e               1               75             
+lead            61833           lead            L IY1 D         2               iy              1               6              
+lead            61833           lead            L EH1 D         2               e               1               3              
+barry           11981           barry           B EH1 R IY0     2               e               1               6              
+barry           11981           barry           B AE1 R IY0     2               ae              1               3              
+em              11160           em              AH0 M           1               @               0               134            
+em              11160           em              EH1 M           1               e               1               85             
+huge            47110           huge            HH Y UW1 JH     3               uw              1               23             
+huge            47110           huge            Y UW1 JH        2               uw              1               19             
+prayers         5000            prayers         P R EY1 ER0 Z   4               *hr             0               19             
+prayers         5000            prayers         P R EH1 R Z     3               e               1               11             
+below           46150           below           B AH0 L OW1     4               owF             1               11             
+below           46150           below           B IY0 L OW1     2               iy              0               11             
+relief          20860           relief          R AH0 L IY1 F   4               iy              1               7              
+relief          20860           relief          R IY0 L IY1 F   2               iy              0               9              
+prayer          12824           prayer          P R EH1 R       3               e               1               17             
+prayer          12824           prayer          P R EY1 ER0     3               ey              1               10             
+require         29774           require         R IH0 K W AY1 ER0 5               ay              1               2              
+require         29774           require         R IY2 K W AY1 ER0 2               iy              2               1              
+bringing        20795           bringing        B R IH1 NG IH0 NG 3               i               1               1              
+bringing        20795           bringing        B R IH1 NG AH0 N 5               @               0               2              
+integrated      9557            integrated      IH1 N AH0 G R EY2 T AH0 D 6               ey              2               8              
+integrated      9557            integrated      IH1 N T AH0 G R EY2 T AH0 D 7               ey              2               5              
+monday          24556           monday          M AH1 N D EY2   2               uh              1               21             
+monday          24556           monday          M AH1 N D IY0   5               iyF             0               45             
+polish          6765            polish          P AA1 L IH0 SH  2               o               1               29             
+polish          6765            polish          P OW1 L IH0 SH  2               ow              1               40             
+located         16670           located         L OW1 K EY2 T AH0 D 2               ow              1               6              
+located         16670           located         L OW1 K EY2 D   4               ey              2               11             
+due             37806           due             D UW1           2               Tuw             1               17             
+due             37806           due             D Y UW1         3               uw              1               8              
+directly        36473           directly        D IH0 R EH1 K L IY0 4               e               1               5              
+directly        36473           directly        D ER0 EH1 K T L IY0 2               *hr             0               7              
+creek           15934           creek           K R IY1 K       3               iy              1               1              
+creek           15934           creek           K R IH1 K       3               i               1               1              
+gradually       11234           gradually       G R AE1 JH UW0 AH0 L IY0 8               iyF             0               2              
+gradually       11234           gradually       G R AE1 JH UW0 L IY0 3               ae              1               4              
+increased       40986           increased       IH1 N K R IY2 S T 1               i               1               2              
+increased       40986           increased       IH2 N K R IY1 S T 5               iy              1               3              
+realizing       5025            realizing       R IY1 AH0 L AY2 Z IH0 NG 5               ay              2               2              
+realizing       5025            realizing       R IY1 L AY2 Z IH0 NG 4               ay              2               4              
+evolved         7020            evolved         IY0 V AA1 L V D 1               iy              0               2              
+evolved         7020            evolved         IH0 V AA1 L V D 1               i               0               1              
+causing         10433           causing         K AA1 Z IH0 NG  2               o               1               1              
+causing         10433           causing         K AO1 Z IH0 NG  2               oh              1               1              
+entertained     1681            entertained     EH2 N T ER0 T EY1 N D 1               e               2               1              
+entertained     1681            entertained     EH2 N ER0 T EY1 N D 1               e               2               2              
+somebody        41744           somebody        S AH1 M B AA2 D IY0 5               o               2               434            
+somebody        41744           somebody        S AH1 M B AH0 D IY0 7               iyF             0               189            
+nobody          33732           nobody          N OW1 B AH0 D IY0 2               ow              1               211            
+nobody          33732           nobody          N OW1 B AA2 D IY2 4               o               2               209            
+regular         29529           regular         R EY1 G Y AH0 L ER0 2               ey              1               37             
+regular         29529           regular         R EH1 G Y AH0 L ER0 2               e               1               59             
+retirement      14701           retirement      R AH0 T AY1 ER0 M AH0 N T 4               ay              1               5              
+retirement      14701           retirement      R IY0 T AY1 ER0 M AH0 N T 2               iy              0               7              
+receiving       12725           receiving       R AH0 S IY1 V IH0 NG 4               iy              1               1              
+receiving       12725           receiving       R IY0 S IY1 V IH0 NG 2               iy              0               1              
+history         119059          history         HH IH1 S T R IY0 2               i               1               15             
+history         119059          history         HH IH1 S T ER0 IY0 5               *hr             0               34             
+event           37262           event           IH0 V EH1 N T   3               e               1               8              
+event           37262           event           IY0 V EH1 N T   1               iy              0               4              
+prefer          12194           prefer          P R AH0 F ER1   5               *hr             1               8              
+prefer          12194           prefer          P R IY0 F ER1   3               iy              0               4              
+terrorists      10296           terrorists      T EH1 R ER0 IH2 S 4               *hr             0               1              
+terrorists      10296           terrorists      T EH1 R ER0 IH2 S T S 4               *hr             0               1              
+horror          7786            horror          HH AO1 R ER0    2               owr             1               2              
+horror          7786            horror          HH AA1 R ER0    4               *hr             0               1              
+protests        6221            protests        P R AH0 T EH1 S 3               @               0               1              
+protests        6221            protests        P R OW1 T EH2 S 3               ow              1               2              
+discussing      8137            discussing      D IH2 S K AH1 S IH0 NG 5               uh              1               2              
+discussing      8137            discussing      D IH2 S K AH1 S AH0 N 2               i               2               1              
+impact          44318           impact          IH1 M P AE0 K T 1               i               1               2              
+impact          44318           impact          IH2 M P AE1 K T 1               i               2               1              
+automatic       7237            automatic       AO2 T OW0 M AE1 T IH0 K 5               ae              1               2              
+automatic       7237            automatic       AO2 T AH0 M AE1 T IH0 K 1               oh              2               2              
+carol           9264            carol           K EH1 R AH0 L   2               e               1               9              
+carol           9264            carol           K AE1 R AH0 L   2               ae              1               5              
+originally      11834           originally      ER0 IH1 JH N AH0 L IY0 1               *hr             0               25             
+originally      11834           originally      ER0 IH1 JH AH0 N AH0 L IY0 8               iyF             0               13             
+emerged         14243           emerged         IY1 M ER0 JH D  3               *hr             0               1              
+emerged         14243           emerged         IH2 M ER1 JH D  3               *hr             1               1              
+de              68909           de              D EY1           2               eyF             1               1              
+de              68909           de              D IY1           2               iyF             1               1              
+de              68909           de              D AH0           2               @               0               1              
+kong            9137            kong            K AA1 NG        2               o               1               3              
+kong            9137            kong            K AO1 NG G      2               oh              1               3              
+hundreds        30528           hundreds        HH AH1 N ER0 D Z 2               uh              1               11             
+hundreds        30528           hundreds        HH AH1 N D ER0 D Z 5               *hr             0               16             
+restaurants     12933           restaurants     R EH1 S T ER0 AA2 N T S 2               e               1               11             
+restaurants     12933           restaurants     R EH1 S T R AA2 N T S 6               o               2               12             
+automobiles     2263            automobiles     AO1 T AH0 M OW0 B IY2 L Z 5               ow              0               2              
+automobiles     2263            automobiles     AO2 T AH0 M OW0 B IY1 L Z 7               iy              1               4              
+enroll          1751            enroll          EH0 N R OW1 L   1               e               0               1              
+enroll          1751            enroll          AH0 N R OW1 L   4               ow              1               1              
+result          65126           result          R IY0 Z AH1 L T 2               iy              0               3              
+result          65126           result          R AH0 Z AH1 L T 4               uh              1               2              
+whistle         3178            whistle         HH W IH1 S AH0 L 3               i               1               1              
+whistle         3178            whistle         W IH1 S AH0 L   4               @               0               2              
+elementary      15139           elementary      EH2 L AH0 M EH1 N CH R IY0 5               e               1               19             
+elementary      15139           elementary      EH2 L AH0 M EH1 N T R IY0 9               iyF             0               12             
+remembered      18527           remembered      R IY0 M EH1 M B ER0 D 2               iy              0               13             
+remembered      18527           remembered      R AH0 M EH1 M B ER0 D 4               e               1               11             
+repeating       3314            repeating       R AH0 P IY1 T IH0 NG 2               @               0               1              
+repeating       3314            repeating       R IY0 P IY1 T IH0 NG 2               iy              0               2              
+research        136195          research        R IY0 S ER1 CH  4               *hr             1               4              
+research        136195          research        R IY1 S ER0 CH  2               iy              1               4              
+tourists        8551            tourists        T UH1 R IH2 S T S 4               i               2               1              
+tourists        8551            tourists        T UH1 R IH2 S   2               uwr             1               1              
+umbrella        3633            umbrella        AH0 M B R EH1 L AH0 1               @               0               5              
+umbrella        3633            umbrella        AH1 M B R EH2 L AH0 1               uh              1               6              
+adults          24908           adults          AH0 D AH1 L T S 3               uh              1               13             
+adults          24908           adults          AE1 D AH0 L T S 1               ae              1               6              
+alexandra       1368            alexandra       AE2 L AH0 G Z AE1 N D R AH0 1               NA              2               1              
+alexandra       1368            alexandra       AE2 L IH0 G Z AE1 N D R AH0 1               NA              2               1              
+protest         10680           protest         P R AH0 T EH1 S T 5               e               1               2              
+protest         10680           protest         P R OW1 T EH2 S T 3               ow              1               3              
+directed        15099           directed        D IH0 R EH1 K T AH0 D 4               e               1               2              
+directed        15099           directed        D ER0 EH1 K T AH0 D 2               *hr             0               1              
+mothers'        842             mothers'        M AH1 AY1 TH ER0 Z 2               uh              1               1              
+mothers'        842             mothers'        M AH1 TH ER0 Z  4               *hr             0               2              
+apprehensive    875             apprehensive    AE2 P R IY0 HH EH1 N S IH0 V 1               NA              2               1              
+apprehensive    875             apprehensive    AE2 P R AH0 HH EH1 N S IH0 V 1               NA              2               1              
+repaired        1868            repaired        R IY0 P EH1 R D 2               iy              0               1              
+repaired        1868            repaired        R AH0 P EH1 R D 4               e               1               1              
+tearing         3161            tearing         T EH1 R IH0 NG  2               e               1               2              
+tearing         3161            tearing         T IH1 R IH0 NG  2               iyr             1               2              
+reports         44278           reports         R AH0 P AO1 R T S 4               owr             1               2              
+reports         44278           reports         R IY0 P AO1 R T S 2               iy              0               2              
+disappear       7161            disappear       D IH2 S AH0 P IH1 R 6               iyr             1               2              
+disappear       7161            disappear       D IH2 S AH0 P IY1 R 2               i               2               1              
+remaining       22902           remaining       R AH0 M EY1 N IH0 NG 4               ey              1               2              
+remaining       22902           remaining       R IY0 M EY1 N IH0 NG 2               iy              0               1              
+adjusting       3057            adjusting       AH0 JH AH1 S T IH0 NG 1               @               0               1              
+adjusting       3057            adjusting       AH0 JH AH1 S T AH0 N 3               uh              1               1              
+carrying        19651           carrying        K AE1 R IY0 IH0 NG 2               ae              1               6              
+carrying        19651           carrying        K EH1 R IY0 IH0 NG 2               e               1               6              
+realize         27982           realize         R IY1 AH0 L AY2 Z 5               ay              2               25             
+realize         27982           realize         R IY1 L AY2 Z   4               ay              2               50             
+remembers       9419            remembers       R AH0 M EH1 M B ER0 Z 4               e               1               6              
+remembers       9419            remembers       R IY0 M EH1 M B ER0 Z 2               iy              0               3              
+herb            3914            herb            ER1 B           1               *hr             1               1              
+herb            3914            herb            HH ER1 B        2               *hr             1               1              
+arrow           3596            arrow           AE1 R OW0       1               ae              1               1              
+arrow           3596            arrow           EH1 R OW0       1               e               1               1              
+forest          30448           forest          F AO1 R AH0 S T 2               owr             1               5              
+forest          30448           forest          F AA1 R AH0 S T 2               ahr             1               6              
+data            88305           data            D EY1 T AH0     2               ey              1               6              
+data            88305           data            D AE1 T AH0     2               ae              1               3              
+deliberate      4020            deliberate      D AH0 L IH1 B ER0 EY2 T 6               *hr             0               2              
+deliberate      4020            deliberate      D AH0 L IH1 B ER0 AH0 T 2               @               0               1              
+mirrors         4296            mirrors         M IY1 R ER0 Z   4               *hr             0               2              
+mirrors         4296            mirrors         M IH1 R ER0 Z   4               *hr             0               1              
+plaza           5423            plaza           P L AE1 Z AH0   3               ae              1               1              
+plaza           5423            plaza           P L AA1 Z AH0   3               o               1               1              
+erasers         146             erasers         IH0 R EY1 S ER0 Z 5               *hr             0               1              
+erasers         146             erasers         IY0 R EY1 S ER0 Z 3               ey              1               1              
+recess          2147            recess          R IY1 S EH0 S   2               iy              1               7              
+recess          2147            recess          R AH0 S EH1 S   4               e               1               6              
+intimidating    1930            intimidating    IH2 N T IH1 M AH0 D EY2 T AH0 N 1               i               2               2              
+intimidating    1930            intimidating    IH2 N T IH1 M AH0 D EY2 T IH0 NG 8               ey              2               1              
+romance         6812            romance         R OW0 M AE1 N S 2               ow              0               1              
+romance         6812            romance         R OW1 M AE0 N S 4               aeh             0               2              
+weirdo          200             weirdo          W IH1 R D OW0   5               owF             0               1              
+weirdo          200             weirdo          W IY1 R D OW0   2               iyr             1               1              
+retiring        2857            retiring        R AH0 T AY1 R IH0 NG 4               ay              1               2              
+retiring        2857            retiring        R IY0 T AY1 ER0 IH0 NG 2               iy              0               2              
+horrendous      1117            horrendous      HH AO2 R EH1 N D AH0 S 2               owr             2               1              
+horrendous      1117            horrendous      HH ER0 R EH1 N D AH0 S 4               e               1               1              
+religious       49279           religious       R AH0 L IH1 JH AH0 S 6               @               0               13             
+religious       49279           religious       R IY0 L IH1 JH AH0 S 2               iy              0               17             
+recorder        2754            recorder        R IY0 K AO1 R D ER0 2               iy              0               6              
+recorder        2754            recorder        R IH0 K AO1 R D ER0 4               owr             1               3              
+survey          30930           survey          S ER0 V EY1     2               *hr             0               7              
+survey          30930           survey          S ER1 V EY2     2               *hr             1               3              
+complains       1640            complains       SH K AH0 IY1 M P SP T L ER1 EY1 N N D Z 4               iy              1               1              
+complains       1640            complains       K AH0 M P L EY1 N Z 6               ey              1               2              
+juan            7605            juan            HH W AA1 N      3               o               1               1              
+juan            7605            juan            W AA1 N         2               o               1               1              
+rely            10312           rely            R IY0 L AY1     2               iy              0               2              
+rely            10312           rely            R AH0 L AY1     4               ay              1               1              
+intimate        7461            intimate        IH1 N T AH0 M AH0 T 1               i               1               2              
+intimate        7461            intimate        IH1 N AH0 M AH0 T 5               @               0               1              
+moral           28480           moral           M AO1 R AH0 L   2               owr             1               5              
+moral           28480           moral           M AA1 R AH0 L   2               ahr             1               4              
+acquainted      1386            acquainted      AH0 K W EY1 N AH0 D 4               ey              1               2              
+acquainted      1386            acquainted      AH0 K W EY1 N T AH0 D 1               @               0               1              
+transferred     6237            transferred     T R AE1 N S F ER0 D 3               aeh             1               9              
+transferred     6237            transferred     T R AE0 N S F ER1 D 3               aeh             0               7              
+fisherman       1781            fisherman       F IH1 SH ER0 M AE2 N 4               *hr             0               1              
+fisherman       1781            fisherman       F IH1 SH ER0 M AH0 N 6               @               0               1              
+deliberately    5646            deliberately    D AH0 L IH1 B R AH0 T L IY0 10              iyF             0               3              
+deliberately    5646            deliberately    D AH0 L IH1 B ER0 AH0 T L IY0 2               @               0               2              
+pajamas         1685            pajamas         P AH0 JH AA1 M AH0 Z 4               o               1               4              
+pajamas         1685            pajamas         P AH0 JH AE1 M AH0 Z 4               aeh             1               2              
+repairs         3191            repairs         R AH0 P EH1 R Z 4               e               1               1              
+repairs         3191            repairs         R IY0 P EH1 R Z 2               iy              0               2              
+beforehand      1466            beforehand      T B AH0 EY1 F AO1 R D HH HH AE2 OW1 N M D F 4               ey              1               1              
+beforehand      1466            beforehand      B AH0 F AO1 R HH AE2 N D 4               owr             1               2              
+windy           2019            windy           W AY1 N D IY0   5               iyF             0               2              
+windy           2019            windy           W IH1 N D IY0   5               iyF             0               2              
+produce         33492           produce         P R AH0 D UW1 S 5               Tuw             1               9              
+produce         33492           produce         P R OW1 D UW0 S 5               Tuw             0               4              
+enjoyment       2708            enjoyment       AH0 N JH OY1 M AH0 N T 4               oy              1               2              
+enjoyment       2708            enjoyment       EH0 N JH OY1 M AH0 N T 1               e               0               1              
+nobody's        3206            nobody's        N OW1 B AH0 D IY0 Z 2               ow              1               7              
+nobody's        3206            nobody's        N OW1 B AA2 D IY2 Z 4               o               2               6              
+whereabouts     1406            whereabouts     HH W EH1 R AH0 B AW2 T S 7               aw              2               1              
+whereabouts     1406            whereabouts     W EH1 R AH0 B AW2 T S 2               e               1               1              
+reporting       17580           reporting       R IY0 P AO1 R T IH0 NG 2               iy              0               2              
+reporting       17580           reporting       R AH0 P AO1 R T IH0 NG 4               owr             1               3              
+production      42176           production      P ER0 D AH1 K SH AH0 N 4               uh              1               3              
+production      42176           production      P R AH0 D AH1 K SH AH0 N 5               uh              1               3              
+accidentally    2982            accidentally    AE2 K S AH0 D EH1 N T AH0 L IY0 1               NA              2               2              
+accidentally    2982            accidentally    AE2 K S AH0 D EH1 N AH0 L IY0 1               NA              2               3              
+retire          4975            retire          R IY0 T AY1 R   2               iy              0               14             
+retire          4975            retire          R IY2 T AY1 ER0 4               ay              1               13             
+hon             467             hon             HH AA1 N        2               o               1               3              
+hon             467             hon             HH AH1 N        2               uh              1               2              
+somebody's      3250            somebody's      S AH1 M B AH0 D IY0 7               iyF             0               32             
+somebody's      3250            somebody's      S AH1 M B AA2 D IY0 5               o               2               26             
+requires        24665           requires        R IY0 K W AY1 R Z 2               iy              0               1              
+requires        24665           requires        R IY0 K W AY1 ER0 Z 5               ay              1               1              
+employees       33129           employees       AH0 M P L OY1 IY0 Z 6               iy              0               3              
+employees       33129           employees       EH0 M P L OY1 IY0 Z 5               oy              1               3              
+ye              2853            ye              Y IY1           2               iyF             1               1              
+ye              2853            ye              Y EH1           2               e               1               2              
+automobile      4703            automobile      AO1 T AH0 M OW0 B IY2 L 1               oh              1               7              
+automobile      4703            automobile      AO2 T AH0 M OW0 B IY1 L 7               iy              1               3              
+effective       39281           effective       AH0 F EH1 K T IH0 V 3               e               1               2              
+effective       39281           effective       IY1 F EH0 K T IH0 V 1               iy              1               2              
+wednesday       17783           wednesday       W EH1 N Z D IY0 6               iyF             0               30             
+wednesday       17783           wednesday       W EH1 N Z D EY2 6               eyF             2               16             
+rejection       5030            rejection       R IY0 JH EH1 K SH AH0 N 2               iy              0               1              
+rejection       5030            rejection       R IH0 JH EH1 K SH AH0 N 4               e               1               2              
+audition        1551            audition        AO0 D IH1 SH AH0 N 1               oh              0               2              
+audition        1551            audition        AA0 D IH1 SH AH0 N 3               i               1               4              
+relieve         2951            relieve         R AH0 L IY1 V   2               @               0               2              
+relieve         2951            relieve         R IY0 L IY1 V   2               iy              0               1              
+economic        96565           economic        IY2 K AH0 N AA1 M IH0 K 5               o               1               2              
+economic        96565           economic        EH2 K AH0 N AA1 M IH0 K 1               e               2               1              
+traditionally   8101            traditionally   T R AH0 D IH1 SH AH0 N AH0 L IY0 5               i               1               1              
+traditionally   8101            traditionally   T R AH0 D IH1 SH N AH0 L IY0 10              iyF             0               1              
+volunteering    1265            volunteering    V AO2 L AH0 N T IH1 R IH0 NG 2               oh              2               1              
+volunteering    1265            volunteering    V AO2 L AH0 N T IH1 R AH0 N 7               iyr             1               1              
+finance         13662           finance         F AY1 N AE2 N S 2               ay              1               2              
+finance         13662           finance         F AH0 N AE1 N S 4               aeh             1               1              
+additional      32664           additional      AH0 D IH1 SH AH0 N AH0 L 3               i               1               2              
+additional      32664           additional      AH0 D IH1 SH N AH0 L 1               @               0               1              
+recovery        15602           recovery        R IH0 K AH1 V R IY0 2               i               0               1              
+recovery        15602           recovery        R IH0 K AH1 V ER0 IY0 4               uh              1               1              
+conduct         16701           conduct         K AH0 N D AH1 K T 5               uh              1               2              
+conduct         16701           conduct         K AA1 N D AH0 K T 2               o               1               3              
+improvise       835             improvise       IH1 M P R AH0 V AY2 Z 1               i               1               1              
+improvise       835             improvise       IH2 M P R AH0 V AY1 Z 7               ay              1               1              
+replace         13723           replace         R IY2 P L EY1 S 5               ey              1               7              
+replace         13723           replace         ER0 P L EY1 S   4               ey              1               3              
+consequently    6793            consequently    K AA1 N S AH0 K W AH0 N T L IY0 12              iyF             0               2              
+consequently    6793            consequently    K AA1 N S AH0 K W EH2 N T L IY0 2               o               1               1              
+barriers        7803            barriers        B EH1 R IY0 ER0 Z 2               e               1               2              
+barriers        7803            barriers        B AE1 R IY0 ER0 Z 2               ae              1               1              
+puerto          5941            puerto          P AO1 R T ER0   5               *hr             0               26             
+puerto          5941            puerto          P AO1 R T AH0   5               @               0               19             
+figuring        3153            figuring        F IH1 G Y ER0 IH0 NG 2               i               1               1              
+figuring        3153            figuring        F IH1 G Y ER0 AH0 N 5               *hr             0               1              
+mentally        6186            mentally        M EH1 N T AH0 L IY0 7               iyF             0               3              
+mentally        6186            mentally        M EH1 N AH0 L IY0 2               e               1               5              
+employed        11576           employed        AH0 M P L OY1 D 5               oy              1               4              
+employed        11576           employed        EH0 M P L OY1 D 1               e               0               3              
+association     46306           association     AH0 S OW2 S IY0 EY1 SH AH0 N 6               ey              1               14             
+association     46306           association     AH0 S OW2 SH IY0 EY1 SH AH0 N 3               ow              2               17             
+seventies       1572            seventies       S EH1 V AH0 N T IY0 Z 7               iy              0               24             
+seventies       1572            seventies       S EH1 V AH0 N IY0 Z 2               e               1               18             
+sentimental     2227            sentimental     S EH2 N AH0 M EH1 N T AH0 L 2               e               2               1              
+sentimental     2227            sentimental     S EH2 N AH0 M EH1 N AH0 L 2               e               2               1              
+reliable        9096            reliable        R IY0 L AY1 AH0 B AH0 L 2               iy              0               2              
+reliable        9096            reliable        R AH0 L AY1 AH0 B AH0 L 2               @               0               1              
+remarks         7303            remarks         R AH0 M AA1 R K S 4               ahr             1               1              
+remarks         7303            remarks         R IY0 M AA1 R K S 2               iy              0               1              
+evolution       11967           evolution       EH2 V AH0 L UW1 SH AH0 N 5               Tuw             1               2              
+evolution       11967           evolution       EH2 V OW0 L UW1 SH AH0 N 1               e               2               3              
+evaluation      14398           evaluation      IY0 V AE2 L Y UW0 EY1 SH AH0 N 1               iy              0               1              
+evaluation      14398           evaluation      IH0 V AE2 L Y UW0 EY1 SH AH0 N 3               NA              2               1              
+lima            1515            lima            L IY1 M AH0     2               iy              1               1              
+lima            1515            lima            L AY1 M AH0     2               ay              1               1              
+hurricane       9799            hurricane       HH AH1 R AH0 K EY2 N Z 2               uh              1               2              
+hurricane       9799            hurricane       HH ER1 AH0 K EY2 N 2               *hr             1               1              
+roosevelt       6359            roosevelt       R UW1 Z AH0 V EH2 L T 2               Tuw             1               6              
+roosevelt       6359            roosevelt       R OW1 Z AH0 V EH2 L T 2               ow              1               8              
+vase            2015            vase            V AA1 Z         2               o               1               1              
+vase            2015            vase            V EY1 S         2               ey              1               2              
+arrows          2254            arrows          AE1 R OW0 Z     1               ae              1               3              
+arrows          2254            arrows          EH1 R OW0 Z     3               ow              0               3              
+receptionist    1395            receptionist    R IY0 S EH1 P SH AH0 N AH0 S T 2               iy              0               1              
+receptionist    1395            receptionist    R AH0 S EH1 P SH AH0 N AH0 S T 4               e               1               2              
+productive      7429            productive      P ER0 D AH1 K T IH0 V 4               uh              1               2              
+productive      7429            productive      P R AH0 D AH1 K T IH0 V 5               uh              1               3              
+retarded        1550            retarded        R AH0 T AA1 R D AH0 D 4               ahr             1               5              
+retarded        1550            retarded        R IY0 T AA1 R D AH0 D 2               iy              0               6              
+pajama          445             pajama          P AH0 JH AA1 M AH0 4               o               1               8              
+pajama          445             pajama          P AH0 JH AE1 M AH0 6               @               0               5              
+elaine          3504            elaine          IY2 L EY1 N     1               iy              2               7              
+elaine          3504            elaine          AH0 L EY1 N     3               ey              1               4              
+conflicts       9074            conflicts       K AH0 N F L IH1 K S 6               i               1               1              
+conflicts       9074            conflicts       K AA1 N F L IH0 K S 2               o               1               2              
+luxuries        591             luxuries        L AH1 G ZH ER0 IY0 Z 2               uh              1               1              
+luxuries        591             luxuries        T L EY1 AH1 K AH1 S AH0 N G D SP ZH DH ER0 EH1 N W IY0 IY1 Z D 4               uh              1               1              
+defect          1925            defect          D AH0 F EH1 K T 4               e               1               2              
+defect          1925            defect          D IY1 F EH0 K T 2               iy              1               3              
+freudian        590             freudian        F R UW1 D IY0 AH0 N 5               iy              0               1              
+freudian        590             freudian        F R OY1 D IY0 AH0 N 3               oy              1               1              
+documentary     6223            documentary     D AA2 K Y AH0 M EH1 N ER0 IY0 2               o               2               1              
+documentary     6223            documentary     D AA2 K Y AH0 M EH1 N T ER0 IY0 2               o               2               1              
+minority        18934           minority        M AY0 N AO1 R AH0 T IY0 2               ay              0               3              
+minority        18934           minority        M AH0 N AO1 R AH0 T IY0 4               owr             1               2              
+walkers         926             walkers         W Y AE1 AO1 K SP ER0 Z 3               NA              1               1              
+walkers         926             walkers         W AO1 K ER0 Z   4               *hr             0               1              
+louis           19286           louis           L UW1 AH0 S     3               @               0               6              
+louis           19286           louis           L UW1 IY0       2               Tuw             1               4              
+transfers       3095            transfers       T R AE0 N S F ER1 Z 3               aeh             0               1              
+transfers       3095            transfers       T R AE1 N S F ER0 Z 3               aeh             1               1              
+attribute       2908            attribute       AH0 T R IH1 B Y UW2 T 4               i               1               1              
+attribute       2908            attribute       AE1 T R AH0 B Y UW2 T 1               ae              1               1              
+graduation      5745            graduation      G R AE2 JH UW0 EY1 SH AH0 N 5               uw              0               6              
+graduation      5745            graduation      G R AE2 JH AH0 W EY1 SH AH0 N 3               NA              2               4              
+pianist         1989            pianist         P IY0 AE1 N AH0 S T 2               iy              0               1              
+pianist         1989            pianist         P IY1 AH0 N AH0 S T 2               iy              1               1              
+printing        4436            printing        P R IH1 N IH0 NG 5               i               0               2              
+printing        4436            printing        P R IH1 N T IH0 NG 6               i               0               1              
+waltzes         143             waltzes         W AO1 L S AH0 Z 2               oh              1               1              
+waltzes         143             waltzes         W AO1 L T S AH0 Z 6               @               0               1              
+korea           15885           korea           K ER0 R IY1 AH0 5               @               0               5              
+korea           15885           korea           K R IY1 AH0     3               iy              1               8              
+ay              442             ay              AY1             1               ay              1               4              
+ay              442             ay              EY1             1               eyF             1               2              
+wha'            28              wha'            W AA1           2               o               1               1              
+wha'            28              wha'            W AH1           2               uh              1               2              
+segmented       440             segmented       S EH2 G M EH1 N AH0 D 2               e               2               1              
+segmented       440             segmented       S EH1 G M EH2 N AH0 D 2               e               1               1              
+re              7192            re              R IY1           2               iyF             1               14             
+re              7192            re              R EY1           2               eyF             1               7              
+punctured       507             punctured       P AH1 NG K SH ER0 D 2               uh              1               1              
+punctured       507             punctured       P AH1 NG K CH ER0 D 6               *hr             0               1              
+receipt         1697            receipt         R IY0 S IY1 T   2               iy              0               3              
+receipt         1697            receipt         R AH0 S IY1 T   4               iy              1               2              
+practitioner    2016            practitioner    P R AE0 K T IH1 SH N ER0 3               NA              0               1              
+practitioner    2016            practitioner    P R AE0 K T IH1 SH AH0 N ER0 3               NA              0               1              
+job's           331             job's           JH AA1 B Z      2               o               1               1              
+job's           331             job's           JH OW1 B Z      2               ow              1               1              
+curry           3460            curry           K AH1 R IY0     2               uh              1               14             
+curry           3460            curry           K ER1 IY0       2               *hr             1               8              
+chauffeur       611             chauffeur       SH OW0 F ER1    2               ow              0               1              
+chauffeur       611             chauffeur       SH OW1 F ER0    2               ow              1               1              
+diapers         1722            diapers         D AY1 AH0 P ER0 Z 2               ay              1               1              
+diapers         1722            diapers         D AY1 P ER0 Z   2               ay0             1               2              
+advantages      6793            advantages      AH0 D V AE1 N IH0 JH AH0 Z 1               @               0               1              
+advantages      6793            advantages      AE0 D V AE1 N T IH0 JH AH0 Z 1               NA              0               1              
+encyclopedia    1624            encyclopedia    AH0 N S AY2 K L AH0 P IY1 D IY0 AH0 4               ay0             2               1              
+encyclopedia    1624            encyclopedia    AH0 N S AY2 K L OW0 P IY1 D IY0 AH0 4               ay0             2               2              
+mozart          1812            mozart          M OW1 T S AA0 R T 2               ow              1               1              
+mozart          1812            mozart          M OW1 Z AA0 R T 4               ahr             0               1              
+exceptionally   2060            exceptionally   IH0 K S EH1 P SH AH0 N AH0 L IY0 1               i               0               1              
+exceptionally   2060            exceptionally   IH0 K S EH1 P SH N AH0 L IY0 4               e               1               2              
+cardiologist    772             cardiologist    AH1 K Z AA2 S R IH1 T D IH0 IY0 NG AA1 OW1 V L ER0 AH0 DH JH EH1 AH0 R S SP T 11              iy              0               1              
+cardiologist    772             cardiologist    K AA2 R D IY0 AA1 L AH0 JH AH0 S T 2               ahr             2               1              
+wednesdays      1024            wednesdays      W EH1 N Z D EY2 Z 2               e               1               4              
+wednesdays      1024            wednesdays      W EH1 N Z D IY0 Z 6               iy              0               4              
+episcopalian    285             episcopalian    IH2 P IH2 S K AH0 P EY1 L Y AH0 N 3               i               2               1              
+episcopalian    285             episcopalian    IH2 P IH2 S K AH0 P EY1 L IY0 AH0 N 8               ey              1               2              
+regulations     13790           regulations     R EH2 IH0 NG G SP Y AH0 B L AE1 EY1 K SH SP AH0 N Z 2               e               2               1              
+regulations     13790           regulations     R EH2 G Y AH0 L EY1 SH AH0 N Z 7               ey              1               2              
+korean          9413            korean          K ER0 R IY1 AH0 N 2               *hr             0               6              
+korean          9413            korean          K ER0 IY1 AH0 N 2               *hr             0               6              
+puttin'         92              puttin'         P UH1 T AH0 N   2               u               1               3              
+puttin'         92              puttin'         P AH1 T AH0 N   2               uh              1               2              
+demoralizing    255             demoralizing    D IH2 M AA1 R AH0 L AY2 Z IH0 NG 2               i               2               1              
+demoralizing    255             demoralizing    D IH2 M AO1 R AH0 L AY2 Z IH0 NG 2               i               2               1              
+relates         3600            relates         R AH0 L EY1 T S 4               ey              1               2              
+relates         3600            relates         R IY0 L EY1 T S 2               iy              0               1              
+coronary        1647            coronary        K AO1 R AH0 N EH2 R IY0 2               owr             1               1              
+coronary        1647            coronary        K AA1 R AH0 N EH2 R IY0 4               @               0               1              
+lenient         619             lenient         L IY1 N IY0 AH0 N T 4               iy              0               3              
+lenient         619             lenient         L IY1 N Y AH0 N T 2               iy              1               4              
+grandparent     489             grandparent     G R AE1 N P EH2 R AH0 N T 3               aeh             1               1              
+grandparent     489             grandparent     G R AE1 M P EH2 R AH0 N T 6               e               2               1              
+grandparent     489             grandparent     G R AE1 N D P EH2 R AH0 N T 3               aeh             1               1              
+integration     9349            integration     IH2 N T AH0 G R EY1 SH AH0 N 7               ey              1               1              
+integration     9349            integration     IH2 N AH0 G R EY1 SH AH0 N 1               i               2               1              
+entertainers    934             entertainers    EH2 N ER0 T EY1 N ER0 Z 5               ey              1               1              
+entertainers    934             entertainers    EH2 N T ER0 T EY1 N ER0 Z 1               e               2               1              
+priority        11082           priority        P R AY0 AO1 R AH0 T IY0 3               ay              0               1              
+priority        11082           priority        P R AY0 AA1 R AH0 T IY0 8               iyF             0               2              
+quebec          2695            quebec          K AH0 B EH1 K   2               @               0               3              
+quebec          2695            quebec          K W AH0 B EH1 K 3               @               0               2              
+jewellery       75              jewellery       JH UW1 L R IY0  5               iyF             0               2              
+jewellery       75              jewellery       JH UW1 L ER0 IY0 2               uw              1               1              
+intersections   833             intersections   IH2 N ER0 S EH1 K SH AH0 N Z 5               e               1               1              
+intersections   833             intersections   IH2 N T ER0 S EH1 K SH AH0 N Z 6               e               1               1              
+alphonsus       107             alphonsus       EH1 AE2 N T L F HH AA1 OW1 M T AH0 SP N Z AH0 S DH 1               e               1               1              
+alphonsus       107             alphonsus       AE0 L F AA1 N S AH0 S 4               o               1               1              
+every-          127             every-          EH1 V R IY0     1               e               1               10             
+every-          127             every-          EH1 V ER0 IY0   3               *hr             0               5              
+listenin'       36              listenin'       L IH1 S N AH0 N 2               i               1               1              
+listenin'       36              listenin'       L IH1 S AH0 N AH0 N 4               @               0               1              
+alzheimer's     3824            alzheimer's     AE1 L Z HH AY2 M ER0 Z 1               NA              1               2              
+alzheimer's     3824            alzheimer's     AA1 L T S HH AY2 M ER0 Z 1               o               1               1              
+delano          457             delano          D AH0 L AA1 N OW0 4               o               1               1              
+delano          457             delano          D EH1 L AH0 N OW0 6               owF             0               1              
+percentages     3087            percentages     P ER0 S EH1 N IH0 JH AH0 Z 6               i               0               1              
+percentages     3087            percentages     P ER0 S EH1 N T IH0 JH AH0 Z 2               *hr             0               1              
+mummery         11              mummery         M AH1 M ER0 IY2 2               uh              1               2              
+mummery         11              mummery         M AH1 M ER0 IY0 4               *hr             0               2              
+teresa's        313             teresa's        T ER0 IY1 S AH0 Z 3               iy              1               4              
+teresa's        313             teresa's        T ER0 EY1 S AH0 Z 3               ey              1               2              
+seniority       817             seniority       S IY0 N Y AA1 R AH0 T IY0 2               iy              0               1              
+seniority       817             seniority       S IY0 N Y AO1 R AH0 T IY0 2               iy              0               2              
+presbyterians   297             presbyterians   P R EH2 S B AH0 T IY1 R IY0 AH0 N Z 8               iyr             1               1              
+presbyterians   297             presbyterians   P R EH2 Z B AH0 T IY1 R IY0 AH0 N Z 3               e               2               1              
+archdiocese     1095            archdiocese     AA2 R CH D AY1 AH0 S AH0 S 1               ahr             2               1              
+archdiocese     1095            archdiocese     AA2 R CH D AY1 AH0 S IY0 Z 1               ahr             2               1              
+diocese         1351            diocese         D AY1 AH0 S IY2 Z 5               iy              2               2              
+diocese         1351            diocese         D AY1 AH0 S AH0 S 2               ay              1               1              
+dion            881             dion            D AY1 AH0 N     2               ay              1               1              
+dion            881             dion            D IY1 AO2 N     2               iy              1               1              
+annunciation    207             annunciation    AH0 N AA1 N S IH0 EY2 SH AH0 N 7               ey              2               11             
+annunciation    207             annunciation    AH0 N AH2 N S IH0 EY1 SH AH0 N 3               uh              2               7              
+morristown      195             morristown      M AA1 R AH0 S T AW2 N 2               ahr             1               3              
+morristown      195             morristown      M AO1 R AH0 S T AW2 N 2               owr             1               2              
+juniata         28              juniata         JH UW2 N IY0 AE1 T AH0 2               uw              2               1              
+juniata         28              juniata         Y UW0 N IY0 AA1 T AH0 4               iy              0               2              
+tsunami         2261            tsunami         S UW0 N AA1 M IY0 4               o               1               2              
+tsunami         2261            tsunami         T S UW0 N AA1 M IY0 5               o               1               1              
+trolly          5               trolly          T R AA1 L IY0   3               o               1               2              
+trolly          5               trolly          CH R AA1 L IY0  5               iyF             0               1              
+surroundin'     1               surroundin'     S ER0 AW1 N D IH0 N 2               *hr             0               1              
+surroundin'     1               surroundin'     S ER0 AW1 N D AH0 N 2               *hr             0               1              
+warrington      62              warrington      W AA1 R IH0 NG T AH0 N 2               ahr             1               1              
+warrington      62              warrington      W AO1 R IH0 NG T AH0 N 2               owr             1               1              
+andorra         25              andorra         AE0 N D AA1 R AH0 1               NA              0               1              
+andorra         25              andorra         AE0 N D AO1 R AH0 1               NA              0               1              

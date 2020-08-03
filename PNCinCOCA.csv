@@ -1,0 +1,436 @@
+COCA word,COCA dict #,PNC word,Trans,v_index,v_class,Stress,PNC count
+afternoon,33129,afternoon,AE2 F T ER0 N UW1 N,1,NA,2,57
+afternoon,33129,afternoon,AE2 F T ER0 N UW1 N,6,Tuw,1,61
+afternoon,33129,afternoon,AE2 F T ER0 N UW1 N,4,*hr,0,14
+in,7924726,in,IH1 N,1,i,1,4240
+in,7924726,in,AH0 N,1,@,0,2037
+in,7924726,in,IH1 F ER0 N,1,i,1,1
+in,7924726,in,IH1,1,i,1,1
+in,7924726,in,IH1 S EH1 N Z,1,i,1,1
+in,7924726,in,AE1 AH0 N T,2,@,0,1
+in,7924726,in,UW1 AH0 N,1,uw,1,1
+in,7924726,in,IH1 IH1 F N ER0 AH0,1,i,1,1
+in,7924726,in,IH1 IH1 F N ER0 AH0,2,i,1,1
+in,7924726,in,EH2 IH1 N R AH0,1,e,2,1
+in,7924726,in,AH0 R AE1 N,1,uh,0,1
+in,7924726,in,EY1 AH0 N,1,ey,1,1
+in,7924726,in,EY1 AH0 N,2,@,0,1
+in,7924726,in,NS AH0 N,2,uh,0,1
+in,7924726,in,IH1 Y UW1 D N,1,i,1,1
+in,7924726,in,IH1 Y UW1 D N,3,uw,1,1
+in,7924726,in,Y IH1 N,2,i,1,1
+in,7924726,in,IH1 D Y UW1 N,1,i,1,1
+in,7924726,in,IH1 D Y UW1 N,4,uw,1,1
+in,7924726,in,EH1 AH0 N M,1,e,1,1
+in,7924726,in,EH1 AH0 N M,2,@,0,1
+in,7924726,in,IH1 W UH1 N,1,i,1,1
+late,83875,late,L EY1 T,2,ey,1,143
+late,83875,late,AE1 AH0 Z L EY1 N D T HH,1,NA,1,1
+late,83875,late,AE1 AH0 Z L EY1 N D T HH,5,ey,1,1
+late,83875,late,OW1 L EY1 N T,1,ow,1,1
+late,83875,late,L DH IY0 EY1 T,3,iy,0,1
+late,83875,late,L DH IY0 EY1 T,4,ey,1,1
+late,83875,late,M L AY1 EY1 T,3,ay,1,1
+late,83875,late,M L AY1 EY1 T,4,ey,1,1
+july,38955,july,JH AH0 L AY1,4,ay,1,37
+july,38955,july,JH AH0 L AY1,2,@,0,13
+july,38955,july,JH UW2 L AY1,2,uw,2,1
+july,38955,july,JH UW2 L AY1,4,ay,1,1
+the,23782976,the,DH AH1,2,uh,1,3369
+the,23782976,the,DH IY0,2,iyF,0,6072
+the,23782976,the,DH AH0,2,@,0,6458
+the,23782976,the,DH G AH1 OW1 ER0,3,uh,1,1
+the,23782976,the,DH G AH1 OW1 ER0,4,ow,1,1
+the,23782976,the,DH G AH1 OW1 ER0,5,*hr,0,1
+the,23782976,the,DH AH0 AH0 N,3,@,0,1
+the,23782976,the,T DH AH0 AH0,3,@,0,1
+the,23782976,the,T DH AH0 AH0,4,@,0,1
+the,23782976,the,DH AY1 AH1,3,uh,1,1
+the,23782976,the,DH ER0 AH0,2,*hr,0,1
+the,23782976,the,L DH IY0 EY1 T,3,iy,0,1
+the,23782976,the,L DH IY0 EY1 T,4,ey,1,1
+the,23782976,the,DH L AH1 Z SP,3,uh,1,1
+the,23782976,the,S DH EY1 AH0,3,ey,1,1
+the,23782976,the,DH DH EY1 IY0 D IH1 D,3,ey,1,1
+the,23782976,the,DH DH EY1 IY0 D IH1 D,4,iy,0,1
+the,23782976,the,DH DH EY1 IY0 D IH1 D,6,i,1,1
+the,23782976,the,DH N T AH0 ER0 AH0,4,@,0,1
+the,23782976,the,DH DH AH1 AH1 SP,4,uh,1,1
+the,23782976,the,D DH AH1 AH1 N,3,uh,1,1
+the,23782976,the,D DH AH1 AH1 N,4,uh,1,1
+the,23782976,the,DH P IY1 IY0 K AH0 T,3,iy,1,1
+the,23782976,the,DH P IY1 IY0 K AH0 T,4,iy,0,1
+the,23782976,the,W DH EY1 IY0 N IY0 AH0,3,ey,1,1
+the,23782976,the,W DH EY1 IY0 N IY0 AH0,4,iy,0,1
+the,23782976,the,L DH AH1,3,uh,1,1
+the,23782976,the,P DH EH2 IY0 R,4,iyr,0,1
+the,23782976,the,DH EH1 AH1,2,e,1,1
+the,23782976,the,DH EH1 AH1,3,uh,1,1
+the,23782976,the,DH ER0 AH1,2,*hr,0,1
+the,23782976,the,DH ER0 AH1,3,uh,1,1
+the,23782976,the,DH S AH0,3,@,0,1
+the,23782976,the,LG DH AH1,3,uh,1,1
+the,23782976,the,Y DH AH0 AH0,4,@,0,1
+the,23782976,the,DH R IY0 IY1,3,iy,0,1
+the,23782976,the,DH R IY0 IY1,4,iyF,1,1
+the,23782976,the,NG DH K L AH1,5,uh,1,1
+the,23782976,the,G DH W AH1 AH0 JH,4,uh,1,1
+the,23782976,the,AH0 DH N AE1 AH1 D V ER0,4,NA,1,1
+the,23782976,the,DH W AH1 ER1 K,3,uh,1,1
+the,23782976,the,DH W AH1 ER1 K,4,*hr,1,1
+the,23782976,the,SP SP DH IY0,4,iyF,0,1
+the,23782976,the,DH DH AH1 AH1 B,3,uh,1,1
+the,23782976,the,DH DH AH1 AH1 B,4,uh,1,1
+the,23782976,the,DH DH AH1,3,uh,1,1
+the,23782976,the,DH T IH0 IY0,3,i,0,1
+the,23782976,the,DH T IH0 IY0,4,iyF,0,1
+the,23782976,the,DH AE1 AH0,2,NA,1,1
+the,23782976,the,DH AH1 AH1,2,uh,1,2
+the,23782976,the,IY0 DH AH0,1,iy,0,1
+the,23782976,the,DH N L IH1 AH0,4,i,1,1
+the,23782976,the,DH N L IH1 AH0,5,@,0,1
+the,23782976,the,DH Y AH0 AH0 JH AH0,4,@,0,1
+the,23782976,the,DH IY0 Y,2,iy,0,1
+the,23782976,the,DH SP R IY0 EY1,4,iy,0,1
+the,23782976,the,DH SP R IY0 EY1,5,eyF,1,1
+the,23782976,the,DH Y AH0 D IH1 IY0 N T,5,i,1,1
+the,23782976,the,DH Y AH0 D IH1 IY0 N T,6,iy,0,1
+the,23782976,the,W DH UH1 AH1 D,4,uh,1,1
+the,23782976,the,DH D T UW1 AH0,4,Tuw,1,1
+the,23782976,the,DH R AH1 AH1,3,uh,1,1
+the,23782976,the,DH R AH1 AH1,4,uh,1,1
+the,23782976,the,K DH AH0 AH0,3,@,0,1
+the,23782976,the,DH DH AH0 EY1,4,eyF,1,1
+the,23782976,the,HH DH IY1 IY0,3,iy,1,1
+the,23782976,the,HH DH IY1 IY0,4,iyF,0,1
+the,23782976,the,EY1 IH1 D DH IY0 M,1,ey,1,1
+the,23782976,the,EY1 IH1 D DH IY0 M,2,i,1,1
+the,23782976,the,DH Y UH1 AH0 R,3,u,1,1
+the,23782976,the,DH Y UH1 AH0 R,4,uh,0,1
+the,23782976,the,DH AH1 AH1,3,uh,1,1
+the,23782976,the,DH IH1 AH1 L R,2,i,1,1
+children,216374,children,CH IH1 L D R AH0 N,6,@,0,153
+children,216374,children,CH IH1 L D R AH0 N,2,i,1,62
+children,216374,children,DH CH IH1 EH1 L D R R AH0 N,4,e,1,1
+children,216374,children,CH T AH0 IH1 L T EY1 D K R AH0 SP N,3,@,0,1
+were,1145002,were,W ER0,2,*hr,0,2473
+were,1145002,were,W ER1,2,*hr,1,774
+were,1145002,were,W DH ER0 AH0,3,*hr,0,1
+were,1145002,were,W N ER0,3,*hr,0,1
+were,1145002,were,K W ER0 L AE1 S,3,*hr,0,1
+were,1145002,were,W EH1 L ER0,4,*hr,0,1
+were,1145002,were,W R ER0 AO1,4,oh,1,1
+were,1145002,were,W IY1 ER0,2,iy,1,1
+were,1145002,were,M W EH1 ER0 R,3,e,1,1
+were,1145002,were,M W EH1 ER0 R,4,*hr,0,1
+were,1145002,were,W M ER0,3,*hr,0,1
+were,1145002,were,W M ER1 AY1,3,*hr,1,1
+were,1145002,were,W M ER1 AY1,4,ay,1,1
+were,1145002,were,W ER0 BR,2,*hr,0,1
+were,1145002,were,W Y ER0 AH0,4,@,0,1
+were,1145002,were,G W OW1 ER0,3,ow,1,1
+were,1145002,were,DH W ER0 EH1 R,3,*hr,0,1
+were,1145002,were,DH W ER0 EH1 R,4,e,1,1
+were,1145002,were,M W ER0,3,*hr,0,1
+were,1145002,were,W R ER0 AY1,3,*hr,0,1
+were,1145002,were,W R ER0 AY1,4,ay,1,1
+angry,22693,angry,AE1 NG G R IY0,1,ae,1,67
+angry,22693,angry,AE1 NG G R IY0,5,iyF,0,58
+because,561674,because,B IH0 K AH1 Z,4,uh,1,1625
+because,561674,because,B IH0 K AO1 Z,2,i,0,362
+because,561674,because,B IH0 K AO1 Z,4,oh,1,540
+because,561674,because,B IH0 K AH1 Z,2,i,0,1273
+because,561674,because,B DH IH0 EH1 R Z K N AH1 AA1 T Z,3,i,0,1
+because,561674,because,B DH IH0 EH1 R Z K N AH1 AA1 T Z,4,e,1,1
+because,561674,because,B DH IH0 EH1 R Z K N AH1 AA1 T Z,9,uh,1,1
+because,561674,because,B DH IH0 EH1 R Z K N AH1 AA1 T Z,10,o,1,1
+because,561674,because,B IH0 IH0 K HH AH1 AE1 V Y Z,6,uh,1,1
+because,561674,because,HH B IH0 AE1 K V SP N AH1 OW1 N Z,9,uh,1,1
+because,561674,because,HH B IH0 AE1 K V SP N AH1 OW1 N Z,10,ow,1,1
+because,561674,because,B T AH0 IH0 G K OW1 AE1 AH1 N Z D,8,NA,1,1
+because,561674,because,B T AH0 IH0 G K OW1 AE1 AH1 N Z D,9,uh,1,1
+because,561674,because,S B IH1 IH0 S K T AH1 ER0 Z Z,3,i,1,1
+because,561674,because,S B IH1 IH0 S K T AH1 ER0 Z Z,4,i,0,1
+because,561674,because,B K AH0 IH0 L K W AH1 EH1 N Z,8,uh,1,1
+because,561674,because,B K AH0 IH0 L K W AH1 EH1 N Z,9,e,1,1
+because,561674,because,HH B IY1 IH0 Z K V AH1 EH1 R IY0 Z SP,8,uh,1,1
+because,561674,because,NS B IH0 K AH1 Z,5,uh,1,1
+because,561674,because,B R IH0 K AH1 AY1 T Z,5,uh,1,1
+because,561674,because,B R IH0 K AH1 AY1 T Z,6,ay0,1,1
+because,561674,because,B S IH0 R IY1 L IY0 K G AH0 AH1 D T IH0 Z,3,iyr,0,1
+because,561674,because,B S IH0 R IY1 L IY0 K G AH0 AH1 D T IH0 Z,11,uh,1,1
+because,561674,because,B S IH0 R IY1 L IY0 K G AH0 AH1 D T IH0 Z,14,i,0,1
+because,561674,because,IH1 B IH0 T K AH1 Z AO1,1,i,1,1
+because,561674,because,IH1 B IH0 T K AH1 Z AO1,3,i,0,1
+because,561674,because,DH B IH0 AH1 K SP M AH1 AH1 N IY0 Z AH0,8,uh,1,1
+because,561674,because,DH B IH0 AH1 K SP M AH1 AH1 N IY0 Z AH0,9,uh,1,1
+because,561674,because,B L IH0 AW1 K AH1 Z,3,i,0,1
+because,561674,because,B L IH0 AW1 K AH1 Z,4,aw,1,1
+while,287334,while,W AY1 L,2,ay,1,303
+while,287334,while,HH W AY1 L,3,ay,1,30
+they,1743480,they,DH EY1,2,eyF,1,13399
+they,1743480,they,DH D AY1 EY1,4,eyF,1,1
+they,1743480,they,DH W EY1 AH0,3,ey,1,1
+they,1743480,they,DH W EY1 AH0,4,@,0,1
+they,1743480,they,G DH R EY1,4,eyF,1,1
+they,1743480,they,DH IH0 EY1,2,i,0,1
+they,1743480,they,DH IH0 EY1,3,eyF,1,1
+they,1743480,they,T DH EY1 AE2,3,ey,1,1
+they,1743480,they,T DH EY1 AE2,4,NA,2,1
+they,1743480,they,DH DH EY1,3,eyF,1,1
+they,1743480,they,W DH ER1 EY1 L D,4,ey,1,1
+they,1743480,they,W DH AO1 EY1 R T,4,eyr,1,1
+they,1743480,they,T DH IY1 EY1,3,iy,1,1
+they,1743480,they,DH DH AE1 EY1 T,3,NA,1,1
+they,1743480,they,DH DH AE1 EY1 T,4,ey,1,1
+they,1743480,they,DH NS EY1,3,ey,1,1
+they,1743480,they,B DH W EY1 IY1,4,ey,1,1
+they,1743480,they,DH EH1 EY1,2,e,1,1
+they,1743480,they,DH AH0 EY1,3,eyF,1,1
+they,1743480,they,DH DH EY1 EY1 Y UW1,4,ey,1,1
+they,1743480,they,Y DH EY1 AE1,3,ey,1,1
+they,1743480,they,Y DH EY1 AE1,4,NA,1,1
+they,1743480,they,DH DH EY1 EY1,3,ey,1,1
+they,1743480,they,DH DH EY1 EY1,4,eyF,1,1
+they,1743480,they,DH DH EY1 EY1 SP,3,ey,1,1
+they,1743480,they,DH DH EY1 EY1 SP,4,eyF,1,1
+they,1743480,they,DH AO1 EY1,2,oh,1,1
+they,1743480,they,DH B AO1 EY1,3,oh,1,1
+they,1743480,they,T DH B OW1 EY1 TH,4,ow,1,1
+they,1743480,they,T DH B OW1 EY1 TH,5,ey,1,1
+they,1743480,they,W DH EY1 AH1 Z S,3,ey,1,1
+they,1743480,they,W DH EY1 AO1 K,3,ey,1,1
+they,1743480,they,DH DH EH1 EY1 N,3,e,1,1
+they,1743480,they,DH DH EH1 EY1 N,4,ey,1,1
+they,1743480,they,DH IH1 EY1 L IY0,2,i,1,1
+they,1743480,they,DH IH1 EY1 L IY0,3,ey,1,1
+they,1743480,they,DH IH1 EY1 L IY0,5,iyF,0,1
+they,1743480,they,DH L EY1 EY1,3,ey,1,1
+they,1743480,they,DH W EY1 AH1,3,ey,1,1
+they,1743480,they,DH W EY1 AH1,4,uh,1,1
+they,1743480,they,DH Y EY1 AE1,3,ey,1,1
+they,1743480,they,DH W EH1 EY1 N,3,e,1,1
+they,1743480,they,DH W EH1 EY1 N,4,ey,1,1
+they,1743480,they,IH1 DH EY1 N,1,i,1,1
+they,1743480,they,IH1 DH EY1 T,1,i,1,1
+they,1743480,they,DH K AH0 EY1,3,@,0,1
+they,1743480,they,D DH EY1 AH1 NG,3,ey,1,1
+they,1743480,they,D DH EY1 AH1 NG,4,uh,1,1
+they,1743480,they,DH DH AH0 EY1,4,eyF,1,1
+they,1743480,they,DH DH EY1 ER0,4,*hr,0,1
+they,1743480,they,IH1 DH EY1,1,i,1,1
+they,1743480,they,IH1 DH EY1,3,eyF,1,1
+they,1743480,they,DH DH EY1 EH1,3,ey,1,1
+they,1743480,they,DH DH EY1 EH1,4,e,1,1
+they,1743480,they,LG DH EY1,3,eyF,1,1
+they,1743480,they,DH Y AH0 EY1,3,@,0,1
+they,1743480,they,DH Y AH0 EY1,4,eyF,1,1
+they,1743480,they,DH AE1 EY1 N T,2,NA,1,1
+they,1743480,they,DH AE1 EY1 N T,3,ey,1,1
+worked,70978,worked,W ER1 K T,2,*hr,1,630
+worked,70978,worked,W IY1 ER1 DH K ER0,2,iy,1,1
+worked,70978,worked,W IY1 ER1 DH K ER0,6,*hr,0,1
+worked,70978,worked,DH W AH1 ER1 K SP T,3,uh,1,1
+worked,70978,worked,DH W AH1 ER1 K SP T,4,*hr,1,1
+i,3837101,i,AY1,1,ay,1,40379
+i,3837101,i,SP AY1 OW1,2,ay,1,1
+i,3837101,i,SP AY1 OW1,3,owF,1,1
+i,3837101,i,AY1 AY1,1,ay,1,6
+i,3837101,i,AY1 AY1,2,ay,1,6
+i,3837101,i,AY1 AY1 D AH0,1,ay,1,1
+i,3837101,i,AY1 AY1 D AH0,2,ay,1,1
+i,3837101,i,AY1 N,1,ay,1,1
+i,3837101,i,AY1 EY1,1,ay,1,1
+i,3837101,i,AY1 EY1,2,eyF,1,1
+i,3837101,i,AY1 W EH1 D IH0 NG,3,e,1,1
+i,3837101,i,AY1 AH1 N EH1,2,uh,1,1
+i,3837101,i,R D AY1,3,ay,1,1
+i,3837101,i,EH1 AY1 D,1,e,1,1
+i,3837101,i,EH1 AY1 D,2,ay,1,1
+i,3837101,i,AY1 D HH,1,ay,1,1
+i,3837101,i,AY1 D DH AH1 N EH1 K S,1,ay,1,1
+i,3837101,i,AY1 D DH AH1 N EH1 K S,4,uh,1,1
+i,3837101,i,AO1 AY1 N AE1,2,ay,1,1
+i,3837101,i,AO1 AY1 N AE1,4,NA,1,1
+i,3837101,i,AY1 AA1,1,ay,1,1
+i,3837101,i,AY1 AA1,2,o,1,1
+i,3837101,i,AO1 AY1,1,oh,1,1
+i,3837101,i,AY1 AE1,1,ay,1,2
+i,3837101,i,AY1 AE1,2,NA,1,2
+i,3837101,i,AY1 AY1 AY1,1,ay,1,1
+i,3837101,i,AY1 AY1 AY1,3,ay,1,1
+i,3837101,i,AY1 AA2,1,ay,1,1
+i,3837101,i,AY1 AA2,2,o,2,1
+i,3837101,i,UH1 AY1 R,2,ay,1,1
+i,3837101,i,EH1 AY1,1,e,1,3
+i,3837101,i,ER0 AY1 N AA1,2,ay,1,1
+i,3837101,i,AY1 SP,1,ay,1,1
+i,3837101,i,K AY1,2,ay,1,1
+i,3837101,i,AY1 AH0,1,ay,1,1
+i,3837101,i,AY1 AH0,2,@,0,1
+i,3837101,i,AY1 SH,1,ay0,1,1
+i,3837101,i,OW1 AY1,1,ow,1,2
+i,3837101,i,OW1 AY1,2,ay,1,2
+i,3837101,i,EH1 AY1 L Y AH0 L AY1,1,e,1,1
+i,3837101,i,EH1 AY1 L Y AH0 L AY1,2,ay,1,1
+i,3837101,i,EH1 AY1 L Y AH0 L AY1,7,ay,1,1
+i,3837101,i,AY1 AY1 G,1,ay,1,1
+i,3837101,i,AY1 AY1 G,2,ay,1,1
+i,3837101,i,ER1 AY1 N,2,ay,1,1
+i,3837101,i,HH D AY1 IY1 R AH0 T,3,ay,1,1
+i,3837101,i,AY1 EH1,1,ay,1,1
+i,3837101,i,AY1 EH1,2,e,1,1
+i,3837101,i,AH1 AY1,1,uh,1,3
+i,3837101,i,AH1 AY1,2,ay,1,3
+i,3837101,i,AY1 AY1 S P,1,ay,1,1
+i,3837101,i,AY1 AY1 S P,2,ay0,1,1
+i,3837101,i,S AY1,2,ay,1,1
+i,3837101,i,AY1 AY1 T IH0,1,ay,1,1
+i,3837101,i,AY1 AY1 T IH0,2,ay0,1,1
+i,3837101,i,AY1 B AE1,1,ay,1,1
+i,3837101,i,AY1 B AE1,3,NA,1,1
+i,3837101,i,P AY1,2,ay,1,1
+i,3837101,i,AE1 EH1 D AY1,1,NA,1,1
+i,3837101,i,EH1 AY1,2,ay,1,1
+i,3837101,i,AY1 AY1 N T,1,ay,1,1
+i,3837101,i,W AY1 AA1,2,ay,1,1
+i,3837101,i,AY1 D R AY1 T,4,ay0,1,1
+i,3837101,i,AY1 R,1,ay,1,1
+i,3837101,i,AH0 AY1,1,@,0,1
+i,3837101,i,T AY1 ER0,2,ay,1,1
+i,3837101,i,T AY1 ER0,3,*hr,0,1
+i,3837101,i,L AY1 AY1,2,ay,1,1
+i,3837101,i,L AY1 AY1,3,ay,1,1
+i,3837101,i,AY1 L,1,ay,1,1
+i,3837101,i,M AY1 AY1,2,ay,1,1
+i,3837101,i,M AY1 AY1,3,ay,1,1
+i,3837101,i,AY1 AY1 K,2,ay0,1,1
+i,3837101,i,AH1 OW1 AY1,1,uh,1,1
+i,3837101,i,AH1 OW1 AY1,2,ow,1,1
+i,3837101,i,IH0 AY1,1,i,0,1
+i,3837101,i,IH0 AY1,2,ay,1,1
+i,3837101,i,L AY1 AA1,2,ay,1,1
+i,3837101,i,AY1 AE1 T S,1,ay,1,1
+i,3837101,i,AE1 AY1 D,1,NA,1,1
+i,3837101,i,AE1 AY1 D,2,ay,1,1
+i,3837101,i,AH0 AY1 N,1,@,0,1
+i,3837101,i,AH0 AY1 N,2,ay,1,1
+i,3837101,i,W AY1 AY1,2,ay,1,1
+i,3837101,i,AH1 AY1 TH ER0 Z M,1,uh,1,1
+i,3837101,i,AH1 AY1 TH ER0 Z M,2,ay0,1,1
+i,3837101,i,AY1 IY0 B AA2 D IY0 Z,1,ay,1,1
+i,3837101,i,AY1 IY0 B AA2 D IY0 Z,4,o,2,1
+sat,52508,sat,S AE1 T,2,ae,1,125
+reading,57699,reading,R EH1 D IH0 NG,2,e,1,4
+reading,57699,reading,R IY1 D AH0 N,2,iy,1,56
+reading,57699,reading,R IY1 D IH0 NG,2,iy,1,13
+reading,57699,reading,R IY1 D AH0 N,4,@,0,12
+reading,57699,reading,R EH1 D AH0 N,2,e,1,2
+nikki,1590,nikki,N IH1 K IY0,2,i,1,2
+nikki,1590,nikki,N IH1 K IY0,4,iyF,0,3
+giovanni,910,-,-,-,-,-,-
+and,11719156,and,AH0 N D,1,@,0,3822
+and,11719156,and,AE1 N D,1,NA,1,16683
+and,11719156,and,AH0 AH0 N D EH1,2,@,0,1
+and,11719156,and,EH1 AE1 N AY1 N W D,1,e,1,1
+and,11719156,and,EH1 AE1 N AY1 N W D,2,NA,1,1
+and,11719156,and,EH1 AE1 N AY1 N W D,4,ay,1,1
+and,11719156,and,AE1 AH0 Z L EY1 N D,1,NA,1,1
+and,11719156,and,AE1 AH0 Z L EY1 N D,5,ey,1,1
+and,11719156,and,AH0 IY1 N,2,iy,1,1
+and,11719156,and,AH0 IY1 N S EH1 D,5,e,1,1
+and,11719156,and,AH1 SP AH0 N N D,1,uh,1,1
+and,11719156,and,AH0 N D AY1 D,4,ay,1,1
+and,11719156,and,AY1 N AE1 N SP W D,1,ay,1,1
+and,11719156,and,AY1 N AE1 N SP W D,3,NA,1,1
+and,11719156,and,EY1 AH0 N JH D D,1,ey,1,1
+and,11719156,and,AE1 N D D,1,NA,1,1
+and,11719156,and,AH0 N OW1 N D SP,1,@,0,1
+and,11719156,and,AH0 N OW1 N D SP,3,ow,1,1
+and,11719156,and,P AH0 ER1 N D,3,*hr,1,1
+and,11719156,and,OW1 AE1 SP N D,2,NA,1,1
+and,11719156,and,AH0 UW2 N D,2,uw,2,1
+and,11719156,and,IH1 SP AH0 N T D W AH0,1,i,1,1
+and,11719156,and,IH1 SP AH0 N T D W AH0,3,uh,0,1
+and,11719156,and,W AH0 ER0 N D,2,@,0,1
+and,11719156,and,W AH0 ER0 N D,3,*hr,0,1
+and,11719156,and,AH0 EY1 N,2,ey,1,1
+and,11719156,and,AE1 AE1 N N D D,1,NA,1,2
+and,11719156,and,AE1 AE1 N N D D,2,NA,1,2
+and,11719156,and,AE1 F AE1 N D,1,NA,1,1
+and,11719156,and,AE1 F AE1 N D,3,NA,1,1
+and,11719156,and,AH0 N M D AY1,1,@,0,1
+and,11719156,and,AH0 N M D AY1,5,ay,1,1
+and,11719156,and,AH1 AH0 N D,1,uh,1,4
+and,11719156,and,AH1 AH0 T N D,1,uh,1,1
+and,11719156,and,AH1 AH0 T N D,2,@,0,1
+and,11719156,and,AE1 AH1 N Z D,1,NA,1,1
+and,11719156,and,AE1 AH1 N Z D,2,uh,1,1
+and,11719156,and,AH0 SP N D,1,uh,0,1
+and,11719156,and,AH0 EH2 N N D,2,e,2,1
+and,11719156,and,AH0 AH0 N D D,1,@,0,1
+and,11719156,and,AH0 AH0 N D D,2,@,0,1
+and,11719156,and,Y AE1 EH1 N D P,2,NA,1,1
+and,11719156,and,Y AE1 EH1 N D P,3,e,1,1
+and,11719156,and,AE1 SP W EH1 N N,1,NA,1,1
+and,11719156,and,D AE1 N D,2,NA,1,2
+and,11719156,and,AE1,1,NA,1,1
+and,11719156,and,DH AE1 AH0 N SP HH D,2,NA,1,1
+and,11719156,and,AE1 EH1 N L D,1,NA,1,1
+and,11719156,and,AE1 EH1 N L D,2,e,1,1
+and,11719156,and,AE1 T N SP D,1,NA,1,1
+and,11719156,and,S AH0 EH1 N D D,3,e,1,1
+and,11719156,and,AH0 HH AE1 N V D,1,@,0,1
+and,11719156,and,AH0 T N D,1,@,0,1
+and,11719156,and,AH0 R IH1 NG N G D,1,uh,0,1
+and,11719156,and,AH0 AH0 N SP JH D,1,@,0,1
+and,11719156,and,AY1 AE1 D OW1 N N T N OW1 D,1,ay,1,1
+and,11719156,and,AY1 AE1 D OW1 N N T N OW1 D,2,NA,1,1
+and,11719156,and,L AH0 AA1 N D,2,@,0,1
+and,11719156,and,L AH0 AA1 N D,3,o,1,1
+and,11719156,and,AE1 AE1 AH0 N N D D,1,NA,1,1
+and,11719156,and,AE1 AE1 AH0 N N D D,2,NA,1,1
+and,11719156,and,AE1 N T N D,1,NA,1,1
+and,11719156,and,AH0 Y AH0 N OW1 N D,1,@,0,1
+and,11719156,and,AH0 Y AH0 N OW1 N D,5,ow,1,1
+and,11719156,and,AH1 AH0 N D,2,@,0,1
+and,11719156,and,IY1 AE1 N D,2,NA,1,1
+and,11719156,and,AE1 SP N D,1,NA,1,1
+and,11719156,and,AE1 ER0 EY1 N SH AH0 D,1,NA,1,1
+and,11719156,and,AE1 ER0 EY1 N SH AH0 D,3,ey,1,1
+and,11719156,and,JH AE1 AH1 S N T D,2,NA,1,1
+and,11719156,and,JH AE1 AH1 S N T D,3,uh,1,1
+and,11719156,and,AH0 AY1 N K D,1,@,0,1
+and,11719156,and,AH0 AY1 N K D,2,ay,1,1
+and,11719156,and,EY1 AH0 N D K,2,@,0,1
+and,11719156,and,DH AH0 AH0 N B D IY1 T,7,iy,1,1
+and,11719156,and,LG SP AE1 N D,3,NA,1,1
+and,11719156,and,AH0 S M N D,1,@,0,1
+and,11719156,and,EH1 AE1 N N D Z,1,e,1,1
+and,11719156,and,EH1 AE1 N N D Z,2,NA,1,1
+and,11719156,and,AE1 N OW1 D,1,NA,1,1
+and,11719156,and,R AE1 EH1 S N IH0 D NG,2,NA,1,1
+and,11719156,and,R AE1 EH1 S N IH0 D NG,3,e,1,1
+and,11719156,and,AH0 Y UH1 N R D,1,@,0,1
+and,11719156,and,DH AE1 AE1 N T D,2,NA,1,1
+and,11719156,and,DH AE1 AE1 N T D,3,NA,1,1
+and,11719156,and,T AE1 AH0 D EY1 N,2,NA,1,1
+and,11719156,and,T AE1 AH0 D EY1 N,5,ey,1,1
+and,11719156,and,AE1 AO1 F N AH0 D,1,NA,1,1
+and,11719156,and,AE1 AH0 T SP N W AH0 Z D,2,@,0,1
+and,11719156,and,AE1 Y EH1 S SP N AH0 D T AH0 Z,3,e,1,1
+and,11719156,and,AE1 Y EH1 S SP N AH0 D T AH0 Z,7,@,0,1
+about,1182613,about,AH0 B AW1 T,3,aw,1,3455
+about,1182613,about,AH0 B AW1 T,1,@,0,992
+about,1182613,about,W AH0 EH1 B AW1 R SP T,3,e,1,1
+about,1182613,about,W AH0 EH1 B AW1 R SP T,5,aw,1,1
+about,1182613,about,BR AH0 B AW1 T,2,uh,0,1
+about,1182613,about,N AH0 B OW1 AW1 T AH1,4,ow,1,1
+about,1182613,about,N AH0 B OW1 AW1 T AH1,5,aw,1,1
+about,1182613,about,N AH0 B OW1 AW1 T AH1,7,uh,1,1
+how,585549,how,HH AW1,2,aw,1,1557
+how,585549,how,NS R AH0 T AY1 R D HH AW1,9,aw,1,1
+how,585549,how,HH Y AH0 AW1 N OW1,4,aw,1,1
+how,585549,how,HH Y AH0 AW1 N OW1,6,owF,1,1
+cotton,11343,cotton,K AA1 T AH0 N,2,o,1,21
+cotton,11343,cotton,K AA1 T AH0 N,4,@,0,7
